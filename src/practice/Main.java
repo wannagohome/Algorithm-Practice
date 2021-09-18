@@ -1,10 +1,11 @@
 package practice;
 
-import practice.leetcode.ContainerWithMostWater;
+import practice.leetcode.BestTimeToBuyAndSellStock2;
+
 
 public class Main {
     public static void main(String[] args) {
-        int[] height = {1,8,6,2,5,4,8,3,7};
-        System.out.println(ContainerWithMostWater.solution(height));
+        int[] height = {1,2,3,4,5};
+        System.out.println(BestTimeToBuyAndSellStock2.solution(height));
     }
 }
