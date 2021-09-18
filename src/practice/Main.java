@@ -1,11 +1,11 @@
 package practice;
 
-import practice.leetcode.BestTimeToBuyAndSellStock2;
+import practice.leetcode.JumpGame;
 
 
 public class Main {
     public static void main(String[] args) {
-        int[] height = {1,2,3,4,5};
-        System.out.println(BestTimeToBuyAndSellStock2.solution(height));
+        int[] height = {3,2,1,0,4};
+        System.out.println(JumpGame.mySolution(height));
     }
 }
