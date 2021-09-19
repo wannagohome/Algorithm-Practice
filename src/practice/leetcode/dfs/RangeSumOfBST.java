@@ -21,7 +21,7 @@ public class RangeSumOfBST {
                 + (root.right != null ? solution(root.right, low, high) : 0);
     }
 
-    static class TreeNode {
+    private static class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;
