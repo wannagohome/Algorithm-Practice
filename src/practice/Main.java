@@ -1,6 +1,6 @@
 package practice;
 
-import practice.leetcode.JumpGame;
+import practice.leetcode.greedy.JumpGame;
 
 
 public class Main {
