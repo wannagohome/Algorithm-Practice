@@ -3,7 +3,7 @@ package practice.leetcode.dfs;
 public class IncreasingOrderSearchTree {
     /**
      * https://leetcode.com/problems/increasing-order-search-tree/
-     * LeetCdoe 897. Increasing Order Search Tree
+     * LeetCode 897. Increasing Order Search Tree
      *
      * My Solution : 단순하게 left와 right를 재귀적으로 조립
      * result : 0ms

@@ -5,7 +5,7 @@ import java.util.*;
 public class AllElementsInTwoBinarySearchTrees {
     /**
      * https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
-     * LeetCdoe 1305. All Elements in Two Binary Search Trees
+     * LeetCode 1305. All Elements in Two Binary Search Trees
      *
      * My Solution :
      * 첫 번째 해답은 모든 방문 경로를 List 형태로 return

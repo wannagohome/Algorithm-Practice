@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class JumpGame {
     /**
      * https://leetcode.com/problems/jump-game/
-     * LeetCdoe 55. Jump Game
+     * LeetCode 55. Jump Game
      *
      * My Solution : 재귀적으로 모든 경우의 수 전체 조회 O(n^2)
      * Time complexity : O(n^2)

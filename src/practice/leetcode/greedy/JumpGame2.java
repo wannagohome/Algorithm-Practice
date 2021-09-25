@@ -4,7 +4,7 @@ public class JumpGame2 {
 
     /**
      * https://leetcode.com/problems/jump-game-ii/
-     * LeetCdoe 45. Jump Game II
+     * LeetCode 45. Jump Game II
      *
      * My Solution : 각 인덱스에서 도달 할 수 있는 인덱스를 기록(dp)
      * Time complexity : O(n*k)

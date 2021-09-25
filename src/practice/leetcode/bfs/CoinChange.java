@@ -7,7 +7,7 @@ import java.util.Queue;
 public class CoinChange {
     /**
      * https://leetcode.com/problems/coin-change/submissions/
-     * LeetCdoe 322. Coin Change
+     * LeetCode 322. Coin Change
      *
      * My Solution :
      * bfs

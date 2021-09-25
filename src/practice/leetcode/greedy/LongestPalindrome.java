@@ -4,7 +4,7 @@ package practice.leetcode.greedy;
 public class LongestPalindrome {
     /**
      * https://leetcode.com/problems/longest-palindrome/
-     * LeetCdoe 409. Longest Palindrome
+     * LeetCode 409. Longest Palindrome
      */
     public static int solution(String s) {
         int[] ascii = new int[128];

@@ -3,7 +3,7 @@ package practice.leetcode.greedy;
 public class ValidParenthesisString {
     /**
      * https://leetcode.com/problems/valid-parenthesis-string/
-     * LeetCdoe 678. Valid Parenthesis String
+     * LeetCode 678. Valid Parenthesis String
      *
      * My Solution : 좌괄호, 별, 우괄호를 단순히 count하여
      * 좌괄호의 count가 0이 아니거나 음수가 될 때 false

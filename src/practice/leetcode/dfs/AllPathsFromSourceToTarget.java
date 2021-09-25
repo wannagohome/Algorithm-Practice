@@ -5,7 +5,7 @@ import java.util.*;
 public class AllPathsFromSourceToTarget {
     /**
      * https://leetcode.com/problems/all-paths-from-source-to-target/submissions/
-     * LeetCdoe 797. All Paths From Source to Target
+     * LeetCode 797. All Paths From Source to Target
      *
      * My Solution :
      * 1. 각 경우의 수를 dfs 로 하나 하나 찾아 들어간다

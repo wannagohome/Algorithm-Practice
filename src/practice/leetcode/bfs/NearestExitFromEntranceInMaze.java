@@ -6,7 +6,7 @@ import java.util.Queue;
 public class NearestExitFromEntranceInMaze {
     /**
      * https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/submissions/
-     * LeetCdoe 1926. Nearest Exit from Entrance in Maze
+     * LeetCode 1926. Nearest Exit from Entrance in Maze
      *
      * My Solution :
      * bfs

@@ -3,7 +3,7 @@ package practice.leetcode;
 public class DistinctSubsequences {
     /**
      * https://leetcode.com/problems/distinct-subsequences/
-     * LeetCdoe 115. Distinct Subsequences
+     * LeetCode 115. Distinct Subsequences
      *
      * My Solution :
      * 주어진 두 문자열 s, t를 가지고 t가 s의 subsequence 가 되는 case 수를 찾는 문제

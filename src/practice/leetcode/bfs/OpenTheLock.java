@@ -5,7 +5,7 @@ import java.util.*;
 public class OpenTheLock {
     /**
      * https://leetcode.com/problems/open-the-lock/submissions/
-     * LeetCdoe 752. Open the Lock
+     * LeetCode 752. Open the Lock
      *
      * My Solution :
      * dp와 재귀를 이용하려 했으나 콜 스택 초과로 실패

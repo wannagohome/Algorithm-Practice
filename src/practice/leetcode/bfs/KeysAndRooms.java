@@ -7,7 +7,7 @@ import java.util.Queue;
 public class KeysAndRooms {
     /**
      * https://leetcode.com/problems/keys-and-rooms/submissions/
-     * LeetCdoe 841. Keys and Rooms
+     * LeetCode 841. Keys and Rooms
      *
      * My Solution :
      * stack이든 queue든 방문 안한 것만 방문하면 되는 아주 간단한 문제

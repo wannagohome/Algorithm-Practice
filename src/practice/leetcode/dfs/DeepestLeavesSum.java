@@ -7,7 +7,7 @@ import java.util.Stack;
 public class DeepestLeavesSum {
     /**
      * https://leetcode.com/problems/deepest-leaves-sum/
-     * LeetCdoe 1302. Deepest Leaves Sum
+     * LeetCode 1302. Deepest Leaves Sum
      *
      * My Solution : 큐(bfs)를 사용하여 한 depth씩 값들을 합함
      * Time Complexity : O(n)

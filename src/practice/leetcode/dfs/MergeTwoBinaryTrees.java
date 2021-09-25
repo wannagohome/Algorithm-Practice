@@ -3,7 +3,7 @@ package practice.leetcode.dfs;
 public class MergeTwoBinaryTrees {
     /**
      * https://leetcode.com/problems/merge-two-binary-trees/submissions/
-     * LeetCdoe 617. Merge Two Binary Trees
+     * LeetCode 617. Merge Two Binary Trees
      *
      * My Solution : left와 right를 재귀적으로 조립(?)
      * result : 1ms

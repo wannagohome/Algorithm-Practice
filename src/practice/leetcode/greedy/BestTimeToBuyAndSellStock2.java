@@ -4,7 +4,7 @@ public class BestTimeToBuyAndSellStock2 {
 
     /**
      * https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
-     * LeetCdoe 122. Best Time to Buy and Sell Stock II
+     * LeetCode 122. Best Time to Buy and Sell Stock II
      *
      * My Solution : 수익이 나는 구간만 더하면 끝
      * discuss에 올라온 DP등의 풀이가 이해되지 않는다. 굳이??

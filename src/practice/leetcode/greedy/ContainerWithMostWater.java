@@ -4,7 +4,7 @@ public class ContainerWithMostWater {
 
     /**
      * https://leetcode.com/problems/container-with-most-water/submissions/
-     * LeetCdoe 11. Container With Most Water
+     * LeetCode 11. Container With Most Water
      *
      * My Solution : 모든 경우의 수 전체 조회 O(n^2)
      * result : 시간초과
