@@ -10,6 +10,14 @@ public class ShortestPathInAGridWithObstaclesElimination {
      * LeetCode 1293. Shortest Path in a Grid with Obstacles Elimination
      *
      * My Solution :
+     * 이동한 경로와 벽을 부순 횟수를 가지고 있는 객체를 만들어 풀어봤지만 시간 초과
+     *
+     * Better Solution :
+     * 각 이동 경로의 좌표와 벽을 부순 횟수로 길이 3의 int array,
+     * 방문 여부는 당시 방문 했을 때의 벽을 부순 횟수로 판단(sean)
+     *
+     * 내 풀이와 마찬가지로 n^2의 2중 반복문을 사용하지만
+     * 모든 경로를 들고다니는 부분에서 가장 큰 차이가 있는것 같다.
      *
      * result : 7ms 93%
      */
