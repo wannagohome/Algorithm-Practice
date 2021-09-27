@@ -6,7 +6,7 @@ import java.util.Queue;
 
 public class KeysAndRooms {
     /**
-     * https://leetcode.com/problems/keys-and-rooms/submissions/
+     * https://leetcode.com/problems/keys-and-rooms/
      * LeetCode 841. Keys and Rooms
      *
      * My Solution :

@@ -4,7 +4,7 @@ import java.util.*;
 
 public class AllPathsFromSourceToTarget {
     /**
-     * https://leetcode.com/problems/all-paths-from-source-to-target/submissions/
+     * https://leetcode.com/problems/all-paths-from-source-to-target/
      * LeetCode 797. All Paths From Source to Target
      *
      * My Solution :

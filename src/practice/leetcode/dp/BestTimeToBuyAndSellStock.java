@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class BestTimeToBuyAndSellStock {
     /**
-     * https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/
+     * https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
      * LeetCode 121. Best Time to Buy and Sell Stock
      *
      * My Solution : dp

@@ -6,7 +6,7 @@ import java.util.List;
 
 public class PascalsTriangle {
     /**
-     * https://leetcode.com/problems/pascals-triangle/submissions/
+     * https://leetcode.com/problems/pascals-triangle/
      * LeetCode 118. Pascal's Triangle
      *
      * My Solution : dp

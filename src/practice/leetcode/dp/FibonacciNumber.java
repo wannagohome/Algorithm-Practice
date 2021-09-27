@@ -2,7 +2,7 @@ package practice.leetcode.dp;
 
 public class FibonacciNumber {
     /**
-     * https://leetcode.com/problems/fibonacci-number/submissions/
+     * https://leetcode.com/problems/fibonacci-number/
      * LeetCode 509. Fibonacci Number
      *
      * My Solution : dp

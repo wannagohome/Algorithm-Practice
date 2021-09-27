@@ -4,7 +4,7 @@ import java.util.*;
 
 public class OpenTheLock {
     /**
-     * https://leetcode.com/problems/open-the-lock/submissions/
+     * https://leetcode.com/problems/open-the-lock/
      * LeetCode 752. Open the Lock
      *
      * My Solution :

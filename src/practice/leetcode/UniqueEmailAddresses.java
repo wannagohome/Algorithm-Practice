@@ -6,7 +6,7 @@ import java.util.Set;
 
 public class UniqueEmailAddresses {
     /**
-     * https://leetcode.com/problems/unique-email-addresses/submissions/
+     * https://leetcode.com/problems/unique-email-addresses/
      * LeetCode 929. Unique Email Addresses
      *
      * My Solution :

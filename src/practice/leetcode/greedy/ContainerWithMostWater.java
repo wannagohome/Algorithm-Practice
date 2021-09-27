@@ -3,7 +3,7 @@ package practice.leetcode.greedy;
 public class ContainerWithMostWater {
 
     /**
-     * https://leetcode.com/problems/container-with-most-water/submissions/
+     * https://leetcode.com/problems/container-with-most-water/
      * LeetCode 11. Container With Most Water
      *
      * My Solution : 모든 경우의 수 전체 조회 O(n^2)
