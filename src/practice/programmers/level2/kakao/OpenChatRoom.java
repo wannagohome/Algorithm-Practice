@@ -1,4 +1,4 @@
-package practice.programmers.level2;
+package practice.programmers.level2.kakao;
 
 import java.util.ArrayList;
 import java.util.HashMap;
