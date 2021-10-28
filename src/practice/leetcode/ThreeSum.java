@@ -23,7 +23,7 @@ public class ThreeSum {
      * n^2의 복잡도로 풀 수 있다.
      *
      * Time Complexity : O(n^2)
-     * result : Time Limit Exceeded
+     * result : 20ms 80%
      *
      */
 
