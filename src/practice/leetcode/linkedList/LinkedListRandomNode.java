@@ -31,7 +31,7 @@ public class LinkedListRandomNode {
 		return values.get(randomIndex);
 	}
 
-	public class ListNode {
+	private static class ListNode {
 		int val;
 		ListNode next;
 	}
