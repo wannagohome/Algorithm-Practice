@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C0B123D027EAF0D700CDB342 /* BrokenCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0B123CF27EAF0D700CDB342 /* BrokenCalculator.swift */; };
+		C0B123D227EAF76100CDB342 /* PartitionLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0B123D127EAF76100CDB342 /* PartitionLabels.swift */; };
 		CDBDE04627E9D06800BF5B17 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBDE04527E9D06800BF5B17 /* main.swift */; };
 		CDBDE04E27E9D2A800BF5B17 /* SmallestStringWithAGivenNumericValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBDE04D27E9D2A800BF5B17 /* SmallestStringWithAGivenNumericValue.swift */; };
 /* End PBXBuildFile section */
@@ -26,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		C0B123CF27EAF0D700CDB342 /* BrokenCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrokenCalculator.swift; sourceTree = "<group>"; };
+		C0B123D127EAF76100CDB342 /* PartitionLabels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionLabels.swift; sourceTree = "<group>"; };
 		CDBDE04227E9D06800BF5B17 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDBDE04527E9D06800BF5B17 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CDBDE04D27E9D2A800BF5B17 /* SmallestStringWithAGivenNumericValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestStringWithAGivenNumericValue.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 			children = (
 				CDBDE04D27E9D2A800BF5B17 /* SmallestStringWithAGivenNumericValue.swift */,
 				C0B123CF27EAF0D700CDB342 /* BrokenCalculator.swift */,
+				C0B123D127EAF76100CDB342 /* PartitionLabels.swift */,
 			);
 			path = Greedy;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C0B123D027EAF0D700CDB342 /* BrokenCalculator.swift in Sources */,
+				C0B123D227EAF76100CDB342 /* PartitionLabels.swift in Sources */,
 				CDBDE04627E9D06800BF5B17 /* main.swift in Sources */,
 				CDBDE04E27E9D2A800BF5B17 /* SmallestStringWithAGivenNumericValue.swift in Sources */,
 			);

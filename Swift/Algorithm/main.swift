@@ -7,4 +7,5 @@
 
 import Foundation
 
-print(SmallestStringWithAGivenNumericValue().getSmallestString(5, 73))
+print(PartitionLabels().partitionLabels("caedbdedda"))
+print(PartitionLabels().partitionLabels("ababcbacadefegdehijhklij"))
