@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(BoatsToSavePeople().numRescueBoats([3, 2, 2, 1], 3))
+print(RemoveDuplicateLetters().removeDuplicateLetters("cbacdcbc"))
