@@ -2,7 +2,7 @@
 //  PartitionLabels.swift
 //  Algorithm
 //
-//  Created by CW on 2022/03/23.
+//  Created by Jinho Jang on 2022/03/23.
 //
 
 import Foundation

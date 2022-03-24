@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C05A9F6027EBFBB60064D06B /* BoatsToSavePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05A9F5F27EBFBB60064D06B /* BoatsToSavePeople.swift */; };
 		C0B123D027EAF0D700CDB342 /* BrokenCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0B123CF27EAF0D700CDB342 /* BrokenCalculator.swift */; };
 		C0B123D227EAF76100CDB342 /* PartitionLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0B123D127EAF76100CDB342 /* PartitionLabels.swift */; };
 		CDBDE04627E9D06800BF5B17 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBDE04527E9D06800BF5B17 /* main.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		C05A9F5F27EBFBB60064D06B /* BoatsToSavePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatsToSavePeople.swift; sourceTree = "<group>"; };
 		C0B123CF27EAF0D700CDB342 /* BrokenCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrokenCalculator.swift; sourceTree = "<group>"; };
 		C0B123D127EAF76100CDB342 /* PartitionLabels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionLabels.swift; sourceTree = "<group>"; };
 		CDBDE04227E9D06800BF5B17 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -44,6 +46,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C05A9F5E27EBFB9E0064D06B /* Two Pointer */ = {
+			isa = PBXGroup;
+			children = (
+				C0B123D127EAF76100CDB342 /* PartitionLabels.swift */,
+				C05A9F5F27EBFBB60064D06B /* BoatsToSavePeople.swift */,
+			);
+			path = "Two Pointer";
+			sourceTree = "<group>";
+		};
+		C05A9F6227EC02000064D06B /* LeetCode */ = {
+			isa = PBXGroup;
+			children = (
+				C05A9F5E27EBFB9E0064D06B /* Two Pointer */,
+				CDBDE04C27E9D10000BF5B17 /* Greedy */,
+			);
+			path = LeetCode;
+			sourceTree = "<group>";
+		};
 		CDBDE03927E9D06800BF5B17 = {
 			isa = PBXGroup;
 			children = (
@@ -63,7 +83,7 @@
 		CDBDE04427E9D06800BF5B17 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
-				CDBDE04C27E9D10000BF5B17 /* Greedy */,
+				C05A9F6227EC02000064D06B /* LeetCode */,
 				CDBDE04527E9D06800BF5B17 /* main.swift */,
 			);
 			path = Algorithm;
@@ -74,7 +94,6 @@
 			children = (
 				CDBDE04D27E9D2A800BF5B17 /* SmallestStringWithAGivenNumericValue.swift */,
 				C0B123CF27EAF0D700CDB342 /* BrokenCalculator.swift */,
-				C0B123D127EAF76100CDB342 /* PartitionLabels.swift */,
 			);
 			path = Greedy;
 			sourceTree = "<group>";
@@ -141,6 +160,7 @@
 				C0B123D227EAF76100CDB342 /* PartitionLabels.swift in Sources */,
 				CDBDE04627E9D06800BF5B17 /* main.swift in Sources */,
 				CDBDE04E27E9D2A800BF5B17 /* SmallestStringWithAGivenNumericValue.swift in Sources */,
+				C05A9F6027EBFBB60064D06B /* BoatsToSavePeople.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

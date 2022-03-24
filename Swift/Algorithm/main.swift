@@ -7,5 +7,4 @@
 
 import Foundation
 
-print(PartitionLabels().partitionLabels("caedbdedda"))
-print(PartitionLabels().partitionLabels("ababcbacadefegdehijhklij"))
+print(BoatsToSavePeople().numRescueBoats([3, 2, 2, 1], 3))
