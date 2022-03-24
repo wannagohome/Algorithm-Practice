@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(RemoveDuplicateLetters().removeDuplicateLetters("cbacdcbc"))
+print(ScoreOfParentheses().scoreOfParentheses("(()(()()))"))
