@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(ScoreOfParentheses().scoreOfParentheses("(()(()()))"))
+print(LargestNumber().largestNumber([74,21,33,51,77,51,90,60,5,56]))
