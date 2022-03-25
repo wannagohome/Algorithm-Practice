@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C04CF2EF27ED4BE700887E5A /* TwoCityScheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = C04CF2EE27ED4BE700887E5A /* TwoCityScheduling.swift */; };
 		C05A9F6027EBFBB60064D06B /* BoatsToSavePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05A9F5F27EBFBB60064D06B /* BoatsToSavePeople.swift */; };
 		C05A9F6427EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05A9F6327EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift */; };
 		C05A9F6627EC16000064D06B /* RemoveDuplicateLetters.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05A9F6527EC16000064D06B /* RemoveDuplicateLetters.swift */; };
@@ -30,6 +31,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		C04CF2EE27ED4BE700887E5A /* TwoCityScheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoCityScheduling.swift; sourceTree = "<group>"; };
 		C05A9F5F27EBFBB60064D06B /* BoatsToSavePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatsToSavePeople.swift; sourceTree = "<group>"; };
 		C05A9F6327EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDominoRotationsForEqualRow.swift; sourceTree = "<group>"; };
 		C05A9F6527EC16000064D06B /* RemoveDuplicateLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicateLetters.swift; sourceTree = "<group>"; };
@@ -52,6 +54,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C04CF2ED27ED4BD000887E5A /* Sorting */ = {
+			isa = PBXGroup;
+			children = (
+				C04CF2EE27ED4BE700887E5A /* TwoCityScheduling.swift */,
+			);
+			path = Sorting;
+			sourceTree = "<group>";
+		};
 		C05A9F5E27EBFB9E0064D06B /* Two Pointer */ = {
 			isa = PBXGroup;
 			children = (
@@ -64,6 +74,7 @@
 		C05A9F6227EC02000064D06B /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				C04CF2ED27ED4BD000887E5A /* Sorting */,
 				C05A9F6727EC39D80064D06B /* Stack */,
 				C05A9F5E27EBFB9E0064D06B /* Two Pointer */,
 				CDBDE04C27E9D10000BF5B17 /* Greedy */,
@@ -176,6 +187,7 @@
 				C05A9F6627EC16000064D06B /* RemoveDuplicateLetters.swift in Sources */,
 				C05A9F6427EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift in Sources */,
 				C0B123D027EAF0D700CDB342 /* BrokenCalculator.swift in Sources */,
+				C04CF2EF27ED4BE700887E5A /* TwoCityScheduling.swift in Sources */,
 				C0B123D227EAF76100CDB342 /* PartitionLabels.swift in Sources */,
 				CDBDE04627E9D06800BF5B17 /* main.swift in Sources */,
 				CDBDE04E27E9D2A800BF5B17 /* SmallestStringWithAGivenNumericValue.swift in Sources */,
