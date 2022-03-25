@@ -12,6 +12,7 @@
 		C05A9F6427EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05A9F6327EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift */; };
 		C05A9F6627EC16000064D06B /* RemoveDuplicateLetters.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05A9F6527EC16000064D06B /* RemoveDuplicateLetters.swift */; };
 		C05A9F6927EC42100064D06B /* ScoreOfParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05A9F6827EC42100064D06B /* ScoreOfParentheses.swift */; };
+		C06C16EA27ED545400492741 /* ValidateStackSequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06C16E927ED545400492741 /* ValidateStackSequences.swift */; };
 		C0B123D027EAF0D700CDB342 /* BrokenCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0B123CF27EAF0D700CDB342 /* BrokenCalculator.swift */; };
 		C0B123D227EAF76100CDB342 /* PartitionLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0B123D127EAF76100CDB342 /* PartitionLabels.swift */; };
 		CDBDE04627E9D06800BF5B17 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBDE04527E9D06800BF5B17 /* main.swift */; };
@@ -36,6 +37,7 @@
 		C05A9F6327EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDominoRotationsForEqualRow.swift; sourceTree = "<group>"; };
 		C05A9F6527EC16000064D06B /* RemoveDuplicateLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicateLetters.swift; sourceTree = "<group>"; };
 		C05A9F6827EC42100064D06B /* ScoreOfParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreOfParentheses.swift; sourceTree = "<group>"; };
+		C06C16E927ED545400492741 /* ValidateStackSequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateStackSequences.swift; sourceTree = "<group>"; };
 		C0B123CF27EAF0D700CDB342 /* BrokenCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrokenCalculator.swift; sourceTree = "<group>"; };
 		C0B123D127EAF76100CDB342 /* PartitionLabels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionLabels.swift; sourceTree = "<group>"; };
 		CDBDE04227E9D06800BF5B17 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -87,6 +89,7 @@
 			children = (
 				C05A9F6527EC16000064D06B /* RemoveDuplicateLetters.swift */,
 				C05A9F6827EC42100064D06B /* ScoreOfParentheses.swift */,
+				C06C16E927ED545400492741 /* ValidateStackSequences.swift */,
 			);
 			path = Stack;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				C05A9F6627EC16000064D06B /* RemoveDuplicateLetters.swift in Sources */,
 				C05A9F6427EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift in Sources */,
 				C0B123D027EAF0D700CDB342 /* BrokenCalculator.swift in Sources */,
+				C06C16EA27ED545400492741 /* ValidateStackSequences.swift in Sources */,
 				C04CF2EF27ED4BE700887E5A /* TwoCityScheduling.swift in Sources */,
 				C0B123D227EAF76100CDB342 /* PartitionLabels.swift in Sources */,
 				CDBDE04627E9D06800BF5B17 /* main.swift in Sources */,
