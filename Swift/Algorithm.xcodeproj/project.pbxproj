@@ -16,6 +16,7 @@
 		C06C16EC27ED575900492741 /* LargestNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06C16EB27ED575900492741 /* LargestNumber.swift */; };
 		C0B123D027EAF0D700CDB342 /* BrokenCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0B123CF27EAF0D700CDB342 /* BrokenCalculator.swift */; };
 		C0B123D227EAF76100CDB342 /* PartitionLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0B123D127EAF76100CDB342 /* PartitionLabels.swift */; };
+		C0D5A59F27ED813F004F738D /* TheNumberOfWeakCharactersInTheGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0D5A59E27ED813F004F738D /* TheNumberOfWeakCharactersInTheGame.swift */; };
 		CDBDE04627E9D06800BF5B17 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBDE04527E9D06800BF5B17 /* main.swift */; };
 		CDBDE04E27E9D2A800BF5B17 /* SmallestStringWithAGivenNumericValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBDE04D27E9D2A800BF5B17 /* SmallestStringWithAGivenNumericValue.swift */; };
 /* End PBXBuildFile section */
@@ -42,6 +43,7 @@
 		C06C16EB27ED575900492741 /* LargestNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestNumber.swift; sourceTree = "<group>"; };
 		C0B123CF27EAF0D700CDB342 /* BrokenCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrokenCalculator.swift; sourceTree = "<group>"; };
 		C0B123D127EAF76100CDB342 /* PartitionLabels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionLabels.swift; sourceTree = "<group>"; };
+		C0D5A59E27ED813F004F738D /* TheNumberOfWeakCharactersInTheGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheNumberOfWeakCharactersInTheGame.swift; sourceTree = "<group>"; };
 		CDBDE04227E9D06800BF5B17 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDBDE04527E9D06800BF5B17 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CDBDE04D27E9D2A800BF5B17 /* SmallestStringWithAGivenNumericValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestStringWithAGivenNumericValue.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 			children = (
 				C04CF2EE27ED4BE700887E5A /* TwoCityScheduling.swift */,
 				C06C16EB27ED575900492741 /* LargestNumber.swift */,
+				C0D5A59E27ED813F004F738D /* TheNumberOfWeakCharactersInTheGame.swift */,
 			);
 			path = Sorting;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0D5A59F27ED813F004F738D /* TheNumberOfWeakCharactersInTheGame.swift in Sources */,
 				C05A9F6627EC16000064D06B /* RemoveDuplicateLetters.swift in Sources */,
 				C05A9F6427EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift in Sources */,
 				C0B123D027EAF0D700CDB342 /* BrokenCalculator.swift in Sources */,

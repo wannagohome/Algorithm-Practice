@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(LargestNumber().largestNumber([74,21,33,51,77,51,90,60,5,56]))
+print(TheNumberOfWeakCharactersInTheGame().numberOfWeakCharacters([[7,7],[1,2],[9,7],[7,3],[3,10],[9,8],[8,10],[4,3],[1,5],[1,5]]))
