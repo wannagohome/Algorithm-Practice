@@ -7,4 +7,6 @@
 
 import Foundation
 
-print(TheNumberOfWeakCharactersInTheGame().numberOfWeakCharacters([[7,7],[1,2],[9,7],[7,3],[3,10],[9,8],[8,10],[4,3],[1,5],[1,5]]))
+//print(IncreasingTripletSubsequence().increasingTriplet([1,2,3,4,5]))
+//print(IncreasingTripletSubsequence().increasingTriplet([5,4,3,2,1]))
+print(IncreasingTripletSubsequence().increasingTriplet([2,1,5,0,4,6]))
