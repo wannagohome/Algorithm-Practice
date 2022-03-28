@@ -20,6 +20,7 @@
 		CD07692027EDDC8A005DCA48 /* IncreasingTripletSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD07691F27EDDC8A005DCA48 /* IncreasingTripletSubsequence.swift */; };
 		CD07692327EDE475005DCA48 /* WiggleSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD07692227EDE475005DCA48 /* WiggleSubsequence.swift */; };
 		CD6B46F927EF456000D719A5 /* BinarySearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD6B46F827EF456000D719A5 /* BinarySearch.swift */; };
+		CD6B46FB27F1FE0E00D719A5 /* SearchInRotatedSortedArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD6B46FA27F1FE0E00D719A5 /* SearchInRotatedSortedArrayII.swift */; };
 		CDBDE04627E9D06800BF5B17 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBDE04527E9D06800BF5B17 /* main.swift */; };
 		CDBDE04E27E9D2A800BF5B17 /* SmallestStringWithAGivenNumericValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBDE04D27E9D2A800BF5B17 /* SmallestStringWithAGivenNumericValue.swift */; };
 /* End PBXBuildFile section */
@@ -50,6 +51,7 @@
 		CD07691F27EDDC8A005DCA48 /* IncreasingTripletSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncreasingTripletSubsequence.swift; sourceTree = "<group>"; };
 		CD07692227EDE475005DCA48 /* WiggleSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WiggleSubsequence.swift; sourceTree = "<group>"; };
 		CD6B46F827EF456000D719A5 /* BinarySearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearch.swift; sourceTree = "<group>"; };
+		CD6B46FA27F1FE0E00D719A5 /* SearchInRotatedSortedArrayII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInRotatedSortedArrayII.swift; sourceTree = "<group>"; };
 		CDBDE04227E9D06800BF5B17 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDBDE04527E9D06800BF5B17 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CDBDE04D27E9D2A800BF5B17 /* SmallestStringWithAGivenNumericValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestStringWithAGivenNumericValue.swift; sourceTree = "<group>"; };
@@ -120,6 +122,7 @@
 			isa = PBXGroup;
 			children = (
 				CD6B46F827EF456000D719A5 /* BinarySearch.swift */,
+				CD6B46FA27F1FE0E00D719A5 /* SearchInRotatedSortedArrayII.swift */,
 			);
 			path = "Binary Search";
 			sourceTree = "<group>";
@@ -222,6 +225,7 @@
 				C05A9F6627EC16000064D06B /* RemoveDuplicateLetters.swift in Sources */,
 				CD07692327EDE475005DCA48 /* WiggleSubsequence.swift in Sources */,
 				C05A9F6427EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift in Sources */,
+				CD6B46FB27F1FE0E00D719A5 /* SearchInRotatedSortedArrayII.swift in Sources */,
 				C0B123D027EAF0D700CDB342 /* BrokenCalculator.swift in Sources */,
 				C06C16EA27ED545400492741 /* ValidateStackSequences.swift in Sources */,
 				C04CF2EF27ED4BE700887E5A /* TwoCityScheduling.swift in Sources */,
