@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C002215B27F2CAA400246BCF /* FindTheDuplicateNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = C002215A27F2CAA400246BCF /* FindTheDuplicateNumber.swift */; };
 		C04CF2EF27ED4BE700887E5A /* TwoCityScheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = C04CF2EE27ED4BE700887E5A /* TwoCityScheduling.swift */; };
 		C05A9F6027EBFBB60064D06B /* BoatsToSavePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05A9F5F27EBFBB60064D06B /* BoatsToSavePeople.swift */; };
 		C05A9F6427EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05A9F6327EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift */; };
@@ -38,6 +39,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		C002215A27F2CAA400246BCF /* FindTheDuplicateNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheDuplicateNumber.swift; sourceTree = "<group>"; };
 		C04CF2EE27ED4BE700887E5A /* TwoCityScheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoCityScheduling.swift; sourceTree = "<group>"; };
 		C05A9F5F27EBFBB60064D06B /* BoatsToSavePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatsToSavePeople.swift; sourceTree = "<group>"; };
 		C05A9F6327EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDominoRotationsForEqualRow.swift; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 			children = (
 				CD6B46F827EF456000D719A5 /* BinarySearch.swift */,
 				CD6B46FA27F1FE0E00D719A5 /* SearchInRotatedSortedArrayII.swift */,
+				C002215A27F2CAA400246BCF /* FindTheDuplicateNumber.swift */,
 			);
 			path = "Binary Search";
 			sourceTree = "<group>";
@@ -227,6 +230,7 @@
 				C05A9F6427EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift in Sources */,
 				CD6B46FB27F1FE0E00D719A5 /* SearchInRotatedSortedArrayII.swift in Sources */,
 				C0B123D027EAF0D700CDB342 /* BrokenCalculator.swift in Sources */,
+				C002215B27F2CAA400246BCF /* FindTheDuplicateNumber.swift in Sources */,
 				C06C16EA27ED545400492741 /* ValidateStackSequences.swift in Sources */,
 				C04CF2EF27ED4BE700887E5A /* TwoCityScheduling.swift in Sources */,
 				C0B123D227EAF76100CDB342 /* PartitionLabels.swift in Sources */,
