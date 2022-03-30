@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C002215B27F2CAA400246BCF /* FindTheDuplicateNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = C002215A27F2CAA400246BCF /* FindTheDuplicateNumber.swift */; };
+		C02FC18527F3E99F005021A3 /* SearchA2DMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = C02FC18427F3E99F005021A3 /* SearchA2DMatrix.swift */; };
 		C04CF2EF27ED4BE700887E5A /* TwoCityScheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = C04CF2EE27ED4BE700887E5A /* TwoCityScheduling.swift */; };
 		C05A9F6027EBFBB60064D06B /* BoatsToSavePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05A9F5F27EBFBB60064D06B /* BoatsToSavePeople.swift */; };
 		C05A9F6427EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05A9F6327EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift */; };
@@ -41,6 +42,7 @@
 
 /* Begin PBXFileReference section */
 		C002215A27F2CAA400246BCF /* FindTheDuplicateNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheDuplicateNumber.swift; sourceTree = "<group>"; };
+		C02FC18427F3E99F005021A3 /* SearchA2DMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchA2DMatrix.swift; sourceTree = "<group>"; };
 		C04CF2EE27ED4BE700887E5A /* TwoCityScheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoCityScheduling.swift; sourceTree = "<group>"; };
 		C05A9F5F27EBFBB60064D06B /* BoatsToSavePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatsToSavePeople.swift; sourceTree = "<group>"; };
 		C05A9F6327EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDominoRotationsForEqualRow.swift; sourceTree = "<group>"; };
@@ -129,6 +131,7 @@
 				CD6B46F827EF456000D719A5 /* BinarySearch.swift */,
 				CD6B46FA27F1FE0E00D719A5 /* SearchInRotatedSortedArrayII.swift */,
 				C002215A27F2CAA400246BCF /* FindTheDuplicateNumber.swift */,
+				C02FC18427F3E99F005021A3 /* SearchA2DMatrix.swift */,
 			);
 			path = "Binary Search";
 			sourceTree = "<group>";
@@ -243,6 +246,7 @@
 				CDBDE04E27E9D2A800BF5B17 /* SmallestStringWithAGivenNumericValue.swift in Sources */,
 				CD07692027EDDC8A005DCA48 /* IncreasingTripletSubsequence.swift in Sources */,
 				C05A9F6927EC42100064D06B /* ScoreOfParentheses.swift in Sources */,
+				C02FC18527F3E99F005021A3 /* SearchA2DMatrix.swift in Sources */,
 				C06C16EC27ED575900492741 /* LargestNumber.swift in Sources */,
 				C05A9F6027EBFBB60064D06B /* BoatsToSavePeople.swift in Sources */,
 			);
