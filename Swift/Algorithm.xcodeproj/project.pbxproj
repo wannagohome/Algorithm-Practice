@@ -10,6 +10,7 @@
 		C002215B27F2CAA400246BCF /* FindTheDuplicateNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = C002215A27F2CAA400246BCF /* FindTheDuplicateNumber.swift */; };
 		C02FC18527F3E99F005021A3 /* SearchA2DMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = C02FC18427F3E99F005021A3 /* SearchA2DMatrix.swift */; };
 		C02FC18727F3EF34005021A3 /* SearchA2DMatrixII.swift in Sources */ = {isa = PBXBuildFile; fileRef = C02FC18627F3EF34005021A3 /* SearchA2DMatrixII.swift */; };
+		C0384B0827FE7C4F00A8F187 /* LastStoneWeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0384B0727FE7C4F00A8F187 /* LastStoneWeight.swift */; };
 		C04CF2EF27ED4BE700887E5A /* TwoCityScheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = C04CF2EE27ED4BE700887E5A /* TwoCityScheduling.swift */; };
 		C05A9F6027EBFBB60064D06B /* BoatsToSavePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05A9F5F27EBFBB60064D06B /* BoatsToSavePeople.swift */; };
 		C05A9F6427EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05A9F6327EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift */; };
@@ -45,6 +46,7 @@
 		C002215A27F2CAA400246BCF /* FindTheDuplicateNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheDuplicateNumber.swift; sourceTree = "<group>"; };
 		C02FC18427F3E99F005021A3 /* SearchA2DMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchA2DMatrix.swift; sourceTree = "<group>"; };
 		C02FC18627F3EF34005021A3 /* SearchA2DMatrixII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchA2DMatrixII.swift; sourceTree = "<group>"; };
+		C0384B0727FE7C4F00A8F187 /* LastStoneWeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LastStoneWeight.swift; sourceTree = "<group>"; };
 		C04CF2EE27ED4BE700887E5A /* TwoCityScheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoCityScheduling.swift; sourceTree = "<group>"; };
 		C05A9F5F27EBFBB60064D06B /* BoatsToSavePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatsToSavePeople.swift; sourceTree = "<group>"; };
 		C05A9F6327EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDominoRotationsForEqualRow.swift; sourceTree = "<group>"; };
@@ -76,6 +78,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C0384B0627FE7C3000A8F187 /* PriorityQueue */ = {
+			isa = PBXGroup;
+			children = (
+				C0384B0727FE7C4F00A8F187 /* LastStoneWeight.swift */,
+			);
+			path = PriorityQueue;
+			sourceTree = "<group>";
+		};
 		C04CF2ED27ED4BD000887E5A /* Sorting */ = {
 			isa = PBXGroup;
 			children = (
@@ -99,6 +109,7 @@
 		C05A9F6227EC02000064D06B /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				C0384B0627FE7C3000A8F187 /* PriorityQueue */,
 				CD6B46F727EF454F00D719A5 /* Binary Search */,
 				CD07692127EDE470005DCA48 /* DP */,
 				C04CF2ED27ED4BD000887E5A /* Sorting */,
@@ -237,6 +248,7 @@
 				C05A9F6627EC16000064D06B /* RemoveDuplicateLetters.swift in Sources */,
 				CD07692327EDE475005DCA48 /* WiggleSubsequence.swift in Sources */,
 				C0F302E227F2F99300CD4DE8 /* DivideArrayInSetsOfKConsecutiveNumbers.swift in Sources */,
+				C0384B0827FE7C4F00A8F187 /* LastStoneWeight.swift in Sources */,
 				C05A9F6427EC07DE0064D06B /* MinimumDominoRotationsForEqualRow.swift in Sources */,
 				CD6B46FB27F1FE0E00D719A5 /* SearchInRotatedSortedArrayII.swift in Sources */,
 				C0B123D027EAF0D700CDB342 /* BrokenCalculator.swift in Sources */,
