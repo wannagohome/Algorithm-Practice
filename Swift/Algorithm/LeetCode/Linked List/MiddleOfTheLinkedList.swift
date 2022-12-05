@@ -19,7 +19,7 @@ public class ListNode {
     public init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next; }
 }
 
-class Solution {
+struct MiddleOfTheLinkedList {
     func middleNode(_ head: ListNode?) -> ListNode? {
         guard let head = head else { return nil }
         let count = countOf(node: head)
