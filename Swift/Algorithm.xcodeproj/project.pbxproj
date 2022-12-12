@@ -34,6 +34,7 @@
 		CDBDE04627E9D06800BF5B17 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBDE04527E9D06800BF5B17 /* main.swift */; };
 		CDBDE04E27E9D2A800BF5B17 /* SmallestStringWithAGivenNumericValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBDE04D27E9D2A800BF5B17 /* SmallestStringWithAGivenNumericValue.swift */; };
 		CDEF0E92294591D9009FEC11 /* 124. Binary Tree Maximum Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDEF0E91294591D9009FEC11 /* 124. Binary Tree Maximum Path Sum.swift */; };
+		CDEF0E94294748E2009FEC11 /* 70. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDEF0E93294748E2009FEC11 /* 70. Climbing Stairs.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -77,6 +78,7 @@
 		CDBDE04527E9D06800BF5B17 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CDBDE04D27E9D2A800BF5B17 /* SmallestStringWithAGivenNumericValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestStringWithAGivenNumericValue.swift; sourceTree = "<group>"; };
 		CDEF0E91294591D9009FEC11 /* 124. Binary Tree Maximum Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "124. Binary Tree Maximum Path Sum.swift"; sourceTree = "<group>"; };
+		CDEF0E93294748E2009FEC11 /* 70. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. Climbing Stairs.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +153,7 @@
 			isa = PBXGroup;
 			children = (
 				CD07692227EDE475005DCA48 /* WiggleSubsequence.swift */,
+				CDEF0E93294748E2009FEC11 /* 70. Climbing Stairs.swift */,
 			);
 			path = DP;
 			sourceTree = "<group>";
@@ -318,6 +321,7 @@
 				CD07692027EDDC8A005DCA48 /* IncreasingTripletSubsequence.swift in Sources */,
 				C05A9F6927EC42100064D06B /* ScoreOfParentheses.swift in Sources */,
 				CD457719293DF42C00E3B32F /* 1480. Running Sum of 1d Array.swift in Sources */,
+				CDEF0E94294748E2009FEC11 /* 70. Climbing Stairs.swift in Sources */,
 				C02FC18527F3E99F005021A3 /* SearchA2DMatrix.swift in Sources */,
 				C06C16EC27ED575900492741 /* LargestNumber.swift in Sources */,
 				C05A9F6027EBFBB60064D06B /* BoatsToSavePeople.swift in Sources */,
